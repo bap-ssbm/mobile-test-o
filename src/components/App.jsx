@@ -10,8 +10,8 @@ export default function App() {
       <Navbar />
       <AnimatePresence>
         <Routes>
-          <Route path="/" element={<Homepage />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/mobile-test-o/" element={<Homepage />} />
+          <Route path="/mobile-test-o/about" element={<About />} />
         </Routes>
       </AnimatePresence>
     </>
