@@ -14,7 +14,7 @@ const ImgSection2 = ({bigImgVariant, descPartsVariant, descVariant}) => {
                 <motion.div className="img-wrapper img2-hp-wrapper"  style={{y:imgY, opacity:scrollImgOpacity}} variants={descVariant} initial="hidden" whileInView="visible" viewport={{  once: true  }} >
                     <Link>
                         <motion.div className="img-protector img2-hp" >
-                            <motion.img variants={bigImgVariant} src="https://previews.dropbox.com/p/thumb/AB2qFM0_xUm0bseAJ8kpr4tzGmyjdEhoxKYwisibu-U11V97kJYhE2RRtRQ41JfvovQhGXpbGFKydx9jDZkEpjlg-VKQsSzolPP6NcUPrQ-AIwn7Sc2g56niC26uv04ZPLpvDJJpP2KFx7hnEQS2Lp3q0A6u9jZP7OBpNHAaJoX_Q6W0-GQRWpyzAXstKgu3AROxOvdM_ZVRnD73-6nav8iT131yarkBCIzqaR-DDVfmsbI1IeqSvvTuyhbEiPUSd99zBJO0VATMLFBx5dJyN5DYtgTHSDR20Ij7uWqZRun-2I2U1sRiodPk83dHzAWd1rglM9vKxscjpOy6k1kgsKETKyweI0vj9YNp916Ffr2uIMVP5b5k3NWMw_l9LJTgBb8/p.jpeg" />
+                            <motion.img variants={bigImgVariant} src="https://uc05e9bf1fe89a5769771807cc63.previews.dropboxusercontent.com/p/thumb/AB2pm7_OHSXANT5VA_x43Ys6H46EeGIYTZyFeCnGAr1bwRRQtZ2Q299InHoMK2MqdJJhf2kG8sExQzaiAYXPI9IpbxdVUjOsJQKLZq40XVxvy8HQv472v8yOSG1JI01F9NVj5eJveAce3aDNhBoCDiY4_Kp4vbCtLxPGInaZDdE7OzWd_f6qfZETOcoMC6WUzjUM3eY9tueG3yg4aMZ2hJaYKn-6B3l5ja_iEzGW4RdL6aqrLeYZuM5GL--XabTo7tQ2bJv8FHmAkqRywkDkBPflBEB90zn-LJBiBKJ1JiKcNQAItWpF3MiBK3nBecEatNR5oUi0bybs49PxzSRKXUbsYnhBW4vrotvd4ECw9wqfr6MwuNBZeVLIF1OqbBj6vokw-xhIibbZc6xa-kXVspvL/p.jpeg" />
                         </motion.div>
                     </Link>
 
